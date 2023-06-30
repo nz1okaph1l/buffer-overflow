@@ -1,5 +1,5 @@
 #!/usr/bin/python2
-#author: prorat
+#author: pr0rat
 #twitter: @pr0rat
 
 import socket
